@@ -31,7 +31,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [(66.09/86.07) Laboratorio de Microcomputadoras / Laboratorio de Microprocesadores](j/DMszThlENqXmSQCkXMy2sA)
 *  {:.btn} [(66.61/86.46) Tecnología de Circuitos Integrados / Microelectrónica](j/CkvBmqUZlCs0MTNh)
 *  {:.btn} [(66.57/86.47) Optoelectrónica](j/XoeO_asHYVdmNzIx)
-*  {:.btn} [(66.75/86.09) Procesos Estocásticos](j/Kd1alhIXJ1fkJozLiPKDoQ)
+*  {:.btn} [(66.75/86.09) Procesos Estocásticos](j/xdqRmzXONsowMTYx)
 *  {:.btn} [(66.38/86.51) Procesamiento de Señales I](j/BGf_lAGuveoxMDlh)
 *  {:.btn} [(66.63/86.54) Redes Neuronales](j/BxPhQ8thIIA2MjVh)
 *  {:.btn} [(66.74/86.05) Señales y Sistemas](j/DMszTk0T-76GU5PAZwraJw)
