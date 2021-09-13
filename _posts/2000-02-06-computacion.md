@@ -22,7 +22,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Análisis de la información/MeMoI - Villagra](j/FP2kuxhIGun-bf1yE6IZOQ)
 *  {:.btn} [Análisis Numérico (Menéndez)](j/Y23MNurE-8lhNDhh)
 *  {:.btn} [Análisis Numérico (Sassano)](j/NP4F9BwODH46vrDH3gAnwQ)
-*  {:.btn} [Análisis Numérico (Tarela)](j/DMszTlJY8_KFm3NDHSNZWA)
+*  {:.btn} [Análisis Numérico (Tarela)](j/3cs-lWDOSbRhNWUx)
 *  {:.btn} [Computación](j/A70cpBejSAzul8jSGlpoOQ)
 *  {:.btn} [Estructura del Computador](j/pH9SvLOlzxUzYmZh)
 *  {:.btn} [Inteligencia Artificial](j/nGTXAdJC09hlZTgx)
