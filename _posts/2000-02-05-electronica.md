@@ -13,6 +13,7 @@ No poner los links de t.joinchat directamente,
 En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 -->
 
+*  {:.btn} [(Área) Física Electrónica](j/EX0kbupFm840MjQx)
 *  {:.btn} [(66.67/86.57) Acústica](j/DMszThp8zU5X4EPgp4MAQg)
 *  {:.btn} [(66.06/86.04) Análisis de Circuitos](j/Ogw12k3ExEvv8pONk4bHPQ)
 *  {:.btn} [(66.08/86.06) Circuitos Electrónicos /I](j/IQ4_wU67D9F0e3ML6B2G7Q)
