@@ -28,7 +28,7 @@ function correctLink(idx, elem){
 		// Los links nuevos (1/12/2021) son de la forma t.me/+sarasa. Los links viejos t.me/joinchat/sarasa_distinto siguen funcionando
 		// Vamos a soportar ambos
 		
-		if (b[0] == '+'){
+		if (group[1][0] == '+'){
 			//link nuevo
 			elem.href = "http://t.me/" + group[1];
 		} else {
