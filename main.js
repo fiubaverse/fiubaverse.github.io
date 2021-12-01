@@ -24,8 +24,18 @@ function correctLink(idx, elem){
 	const group = elem.href.match('j/(.+)')
 	if (group){
 		// Dado que no es un link, supongo que es un cacho de url de join
-		elem.href = "http://t.me/joinchat/" + group[1];
-		elem.addEventListener("click", clickListener, false); 
+		
+		// Los links nuevos (1/12/2021) son de la forma t.me/+sarasa. Los links viejos t.me/joinchat/sarasa_distinto siguen funcionando
+		// Vamos a soportar ambos
+		
+		if (b[0] == '+'){
+			//link nuevo
+			elem.href = "http://t.me/" + group[1];
+		} else {
+			//link viejo
+			elem.href = "http://t.me/joinchat/" + group[1];
+		}
+		elem.addEventListener("click", clickListener, false);
 	}
 }
 
