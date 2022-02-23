@@ -114,7 +114,7 @@ function init(){
 RVerify.configure({
   title: 'Anti Bots',
   text: 'Dejá la imagen derechita',
-  extra: '(Arrastrá el boton amarillo)',
+  extra: '(Arrastrá el botón amarillo)',
   tolerance: 10,
   zIndex: 999999,
   maskClosable: false,
