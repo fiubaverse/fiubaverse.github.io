@@ -21,7 +21,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [(62.21/82.12) Comunicación de Datos](j/DMszTkN3VbX6jtzAv5QPHw)
 *  {:.btn} [(66.34/86.25) Comunicaciones Digitales I](j/nzdJAi1lg1U1NDE5)
 *  {:.btn} [(66.18/86.08) Teoría de Control I / Control Automático I](j/oFHww5Ny-5c0YTkx)
-*  {:.btn} [(66.28/86.16) Teoría de Control II / Control Automático II](j/8UBmfWeRUi83MTNh)
+*  {:.btn} [(66.28/86.16) Teoría de Control II / Control Automático II](j/+cMoiSo-YqzBjNmIx)
 *  {:.btn} [(66.19/86.36) Criptografía y Seguridad Informática](j/RtIFfhut_eS9uSPFcNf1Kw)
 *  {:.btn} [(66.25/86.03) Dispositivos Semiconductores](j/DMszTlNF4hsAaoRpw3IVkg)
 *  {:.btn} [(66.35/86.44) Técnica Digital Avanzada](j/U9TAnDanI7BkNTZh)
