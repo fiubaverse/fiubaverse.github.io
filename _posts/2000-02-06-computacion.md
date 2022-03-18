@@ -27,7 +27,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Estructura del Computador](j/pH9SvLOlzxUzYmZh)
 *  {:.btn} [Inteligencia Artificial](j/nGTXAdJC09hlZTgx)
 *  {:.btn} [(75.06) Organización de Datos](j/IQ4_wRvx_n27Wf8KCJOsHQ)
-*  {:.btn} [Orga del computador (Moreno)](j/CiRS_0Vrm9LUJVWBqQCNrw)
+*  {:.btn} [Orga del computador](j/CiRS_0Vrm9LUJVWBqQCNrw)
 *  {:.btn} [Taller de Programación 1](j/A70cpBnwnhsSBnpw0QU89w)
 *  {:.btn} [Teoría de Algoritmos](j/rhgD5pLf425hYWJh)
 
