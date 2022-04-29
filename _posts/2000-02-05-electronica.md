@@ -40,6 +40,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [(66.49/86.60) Sistemas Biológicos](j/mcQXlmp2mbJiY2Ix)
 *  {:.btn} [(86.65) Sistemas Embebidos](j/1D6R2peJrpozNzVh)
 *  {:.btn} [(66.77/86.31) Sistemas de Comunicaciones / Servicios y Redes de Comunicaciones](j/Bje_FbBY2JJmYjcx)
+*  {:.btn} [(66.17/86.41) Sistemas Digitales](j/+ggypjvmAkjI1MmFh)
 *  {:.btn} [(66.01/86.01) Técnica Digital](j/5AHHpHW0vmxkMGMx)
 *  {:.btn} [(86.35) Video Digital](j/+gRMPlxYPtogwNzkx)
 
