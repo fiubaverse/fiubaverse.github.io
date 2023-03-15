@@ -31,6 +31,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Taller de Programación 1](j/A70cpBnwnhsSBnpw0QU89w)
 *  {:.btn} [Teoría de Algoritmos](j/+7de-JG1NW_gxOTc5)
 *  {:.btn} [Sistemas Operativos](j/+kD-0kV1oLacyYWI5)
+*  {:.btn} [Introducción a los Sistemas Distribuidos 75.43/75.33/95.60](j/+hsc_ZQ5DIHM0MmEx)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
