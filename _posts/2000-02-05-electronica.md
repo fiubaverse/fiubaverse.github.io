@@ -12,7 +12,14 @@ No poner los links de t.joinchat directamente,
 >>>> NO USAR https://www.protectyourlinks.com/ <<<<
 En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 -->
-
+*  {:.btn} [Planificación de proyectos](j/+TT4fwxLDjJUyZTUx)
+*  {:.btn} [Gestion de proyectos](j/+FIxxd3PxH9czZjEx)
+*  {:.btn} [Electromagnetismo aplicado](j/+EELJ3WGUsXMzYjg5)
+*  {:.btn} [Redes de comunicaciones Burin](j/+8PzNOw0wxhsxMjRh)
+*  {:.btn} [Redes de comunicaciones Lovato](j/DMszTkN3VbX6jtzAv5QPHw)
+*  {:.btn} [Taller de Comunicaciones Digitales I](j/nzdJAi1lg1U1NDE5)
+*  {:.btn} [Taller de Procesamiento de señales](j/+oGkm5ckiTNE0Yzgx)
+*  {:.btn} [Taller de Automatizacion y control](j/https://t.me/+mqtzXOYti3g5ZTRh)
 *  {:.btn} [(Área) Física Electrónica](j/EX0kbupFm840MjQx)
 *  {:.btn} [(66.67/86.57) Acústica](j/+Bh-kVnDwqio3MDAx)
 *  {:.btn} [(66.06/86.04) Análisis de Circuitos](j/Ogw12k3ExEvv8pONk4bHPQ)
