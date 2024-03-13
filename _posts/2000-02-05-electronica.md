@@ -12,6 +12,8 @@ No poner los links de t.joinchat directamente,
 >>>> NO USAR https://www.protectyourlinks.com/ <<<<
 En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 -->
+*  {:.btn} [Introduccion a los Dispositivos Electronicos](j/DMszTlNF4hsAaoRpw3IVkg)
+*  {:.btn} [Sistemas Digitales](j/+ggypjvmAkjI1MmFh)
 *  {:.btn} [Planificación de proyectos](j/+TT4fwxLDjJUyZTUx)
 *  {:.btn} [Gestion de proyectos](j/+FIxxd3PxH9czZjEx)
 *  {:.btn} [Electromagnetismo aplicado](j/+EELJ3WGUsXMzYjg5)
@@ -20,6 +22,8 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Taller de Comunicaciones Digitales I](j/nzdJAi1lg1U1NDE5)
 *  {:.btn} [Taller de Procesamiento de señales](j/+oGkm5ckiTNE0Yzgx)
 *  {:.btn} [Taller de Automatizacion y control](j/https://t.me/+mqtzXOYti3g5ZTRh)
+*  {:.btn} [Taller de Sistemas Embebidos](j/DMszThlENqXmSQCkXMy2sA)
+*  {:.btn} [Taller de Diseño de Circuitos Electrónicos](j/HNkuMsdEFXBmZDdh)
 *  {:.btn} [(Área) Física Electrónica](j/EX0kbupFm840MjQx)
 *  {:.btn} [(66.67/86.57) Acústica](j/+Bh-kVnDwqio3MDAx)
 *  {:.btn} [(66.06/86.04) Análisis de Circuitos](j/Ogw12k3ExEvv8pONk4bHPQ)
@@ -48,6 +52,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [(86.65) Sistemas Embebidos](j/1D6R2peJrpozNzVh)
 *  {:.btn} [(66.77/86.31) Sistemas de Comunicaciones / Servicios y Redes de Comunicaciones](j/Bje_FbBY2JJmYjcx)
 *  {:.btn} [(66.17/86.41) Sistemas Digitales](j/+ggypjvmAkjI1MmFh)
+*  {:.btn} [(66.71/86.43) Sistemas Graficos](j/+Q__o-jSB9qI4OGMx)
 *  {:.btn} [(66.01/86.01) Técnica Digital](j/5AHHpHW0vmxkMGMx)
 *  {:.btn} [(86.35) Video Digital](j/+gRMPlxYPtogwNzkx)
 
